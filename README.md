@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development (frontend-backend)
 - 🌱 I’m currently learning html css javascript angular mysql mogodb
 - 💞️ I’m looking to collaborate on my works to find a new job
-- 📫 How to reach me ...
+- 📫 How to reach me ...AT Gmail: hassanmmahmod33@gmail.com   or sonsonbob426@gmail.com
 
 <!---
 hassanbob/hassanbob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
